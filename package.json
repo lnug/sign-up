@@ -1,0 +1,16 @@
+{
+  "name": "lnug-signup",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.7.2",
+    "@tailwindcss/forms": "^0.5.3",
+    "arc-plugin-tailwindcss": "^0.1.1"
+  },
+  "dependencies": {
+    "@architect/functions": "^5.2.3"
+  }
+}
