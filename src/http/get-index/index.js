@@ -52,7 +52,14 @@ exports.handler = async () => ({
       <button type="submit" class="inline-flex items-center rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">Sign Up</button>
       </form>
       <footer class="px-4 py-4 sm:px-6">
-        <p>LNUG promises to only use this information where necessary to get you into a venue. </p>
+        <p>  
+        Note from sponsor Beamery on data use: </br>
+        24-48 hours prior to the event you will receive a QR code to your email address that you provide on this form. This QR will give you access to the Beamery, HYLO building where our LNUG event is taking place.
+        When you arrive you will just need to scan it at the gates for entry. </br>
+        Please note: you will not be allowed through security unless you are listed as "Attending" on this event. </br>
+        <strong> Your details will be shared with our event sponsor, Beamery, for communication and health & safety purposes relating to the event. </strong>
+         </p> 
+         <hr>
         <p>After the event your details will be automatically deleted, the code for this is opensource and can be found here: <a href="https://github.com/lnug">https://github.com/lnug</a></p>
       </footer>
       </main>
