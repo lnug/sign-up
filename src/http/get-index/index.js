@@ -18,15 +18,15 @@ exports.handler = async () => ({
     <nav class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8" aria-label="Top">
       <div class="flex w-full items-center justify-between border-b border-indigo-500 py-6 lg:border-none">
         <div class="flex items-center">
-          <a href="#">
+          <a href="https://lnug.org/">
             <img class="max-h-20"
               src="https://d33wubrfki0l68.cloudfront.net/45698a52e0b2b49b78801ea9fa67a1eb0d083c79/28f75/img/lnug-logo.svg"
               alt="LNUG logo">
           </a>
           <div class="ml-10 hidden space-x-8 lg:block">
-            <h1 class="text-slate-50 text-4xl font-bold underline">
-              #96 22nd Nov 2022
-            </h1>
+            <a href="https://lnug.org/" class="text-slate-50 text-4xl font-bold underline">
+              Meetup #96 : Return of LNUG!
+            </a>
           </div>
         </div>
       </div>
@@ -60,7 +60,7 @@ exports.handler = async () => ({
         <strong> Your details will be shared with our event sponsor, Beamery, for communication and health & safety purposes relating to the event. </strong>
          </p> 
          <hr>
-        <p>After the event your details will be automatically deleted, the code for this is opensource and can be found here: <a href="https://github.com/lnug">https://github.com/lnug</a></p>
+        <p>After the event your details will be automatically deleted, the code for this is opensource and can be found here: <a href="https://github.com/lnug/sign-up">https://github.com/lnug/sign-up</a></p>
       </footer>
       </main>
       </div>
